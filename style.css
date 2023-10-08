@@ -1,0 +1,12 @@
+bg { 
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+/* Path: CarShow/style.css */
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
